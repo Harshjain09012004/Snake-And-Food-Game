@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Snake Game</title>
+    <link rel="stylesheet" href="index.css">
+</head>
+<body>
+    <div class="section1">
+        <h1>|-- Snake & Food Game --|</h1>
+        <h2 id="score">Score : 0</h2>
+        <h2 id="state">Status : Start a new game</h2>
+    </div>
+
+    <div class="section2">
+        <!-- X:[0, 800]   Y:[0, 550] -->
+        <canvas id="myCanvas" height="550" width="800">
+
+        </canvas>
+
+        <div class="control-panel">
+            <button type="button" id="start">Start</button>
+            <button type="button" id="reset">Reset</button>
+        </div>
+    </div>
+   
+
+    <script src="script.js"></script>
+</body>
+</html>
