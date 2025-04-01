@@ -19,7 +19,9 @@ This is a simple Snake Game built using HTML, CSS, and JavaScript.
 3. Start playing!
 
 ## Screenshots
-*(Add screenshots of the game here)*
+![Screenshot 2025-04-01 214735](https://github.com/user-attachments/assets/50efe58a-6d45-4e1d-a553-b0f5b3d3d3a7)
+![Screenshot 2025-04-01 214804](https://github.com/user-attachments/assets/580ac2e5-765b-43da-bfef-bf6fe20892eb)
+
 
 ## Technologies Used
 - **HTML**: For the structure of the game.
